@@ -16,7 +16,7 @@ int main () {
 	b = 0;
 	c = 0;
 	soma = 0;
-	printf ("dgite um valor inteiro para delimitar quantos termos da sequancia de fibonacci vai aparecer na tela: ");
+	printf ("digite um valor inteiro para delimitar quantos termos da sequancia de fibonacci vai aparecer na tela: ");
 	scanf ("%d", &quantidadeDeTermos);
 	for (i=1; i<=quantidadeDeTermos; i++){
 		soma = a+b;
