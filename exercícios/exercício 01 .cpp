@@ -1,7 +1,7 @@
 //exercicio 1 descubra se o numero é positivo.
 
 #include <stdio.h>  //funçao entrada e saida
-#include <locale.H> //funçao de caracter
+#include <locale.h> //funçao de caracter
 int main() {
 	setlocale(LC_ALL, "Portuguese");
 	int x;
