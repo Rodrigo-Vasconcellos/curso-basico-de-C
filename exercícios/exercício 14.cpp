@@ -29,6 +29,7 @@ int main () {
 		printf ("\n");	
 		quantidadeTotal = quantidadeTotal + 1;
 		salarioTotal = salarioTotal + salario;
+		
 		if (sexo == 1){
 			quantidadeMasculino = quantidadeMasculino + 1;
 			salarioMasculino = salarioMasculino + salario;
